@@ -21,6 +21,11 @@
             android:layout_height="wrap_content"
             android:text="@string/hello_blank_fragment" />
 
+        <Button
+            android:id="@+id/button_t"
+            android:layout_width="20dp"
+            android:layout_height="20dp" />
+
     </LinearLayout>
 
 
